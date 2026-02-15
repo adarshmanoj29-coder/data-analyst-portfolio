@@ -12,6 +12,8 @@ Answer practical business questions using SQL and extract insights.
   - Dinner: **3660.30**
   - Lunch: **1167.47**
   → Dinner generates ~3× more revenue than lunch.
+  ![Revenue by time](screenshots/revenue_by_time.png)
+
 
 ## What I Demonstrate
 - Aggregations: `SUM`, `AVG`, `COUNT`
